@@ -64,5 +64,110 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Hooksbase is a company surfaced via the API Evangelist harvest backlog (source: g2-catalog) and added to the network as a stub for full-pipeline profiling.
-- https://hooksbase.com/
+Hooksbase provides event infrastructure for AI agents, enabling reliable ingestion, routing, transformation, and delivery of events from HTTP, email, forms, and schedules. It offers automation workflows, versioned automations, and replay capabilities without building custom webhook plumbing, supporting integrations with major platforms and cloud destinations.
+
+**Areas:** Company · EventInfrastructure · AI · Webhooks · Automation · Integration
+
+## Hooksbase on APIs.io
+
+Everything profiled for Hooksbase is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hooksbase/](https://apis.io/providers/hooksbase/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Hooksbase API](https://apis.io/apis/hooksbase/hooksbase-api/) — Hooksbase API as documented publicly: 92 operations. Contract generated from the documentation by API Evangelist (2026-10-18); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Hooksbase API Rules](https://apis.io/rules/hooksbase/hooksbase-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Hooksbase Authentication](https://apis.io/security/hooksbase/hooksbase-authentication/)
+- [Hooksbase Domain Security](https://apis.io/security/hooksbase/hooksbase-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Hooksbase Plans Pricing](https://apis.io/plans/hooksbase/hooksbase-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Hooksbase Rate Limits](https://apis.io/rate-limits/hooksbase/hooksbase-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://hooksbase.com/)
+- [Documentation](https://www.hooksbase.com/docs)
+- [Getting started](https://www.hooksbase.com/docs/quickstart)
+- [API reference](https://www.hooksbase.com/docs)
+- [Pricing](https://www.hooksbase.com/pricing)
+- [Blog](https://www.hooksbase.com/blog)
+- [Terms of service](https://www.hooksbase.com/terms)
+- [Privacy policy](https://www.hooksbase.com/privacy)
+- [GitHub](https://github.com/hooksbase)
+
+## API Evangelist rating
+
+**Kin Score 56.1** — strong · rubric 0.24.0 · scored 2026-10-18
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 21.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 41.6 |
+| Developer ergonomics | 71.4 |
+| Access clarity | 73.2 |
+
+**Agent readiness 28.2** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | documented (partial credit) |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hooksbase/](https://apis.io/providers/hooksbase/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Hooksbase: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hooksbase/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
